@@ -1,4 +1,4 @@
-## Ejecutar resultado de la prueba 
+# Ejecutar resultado de la prueba 
 1. Clonar este repositorio, asegúrate de tener instalado [Git](https://git-scm.com/) en tu máquina. Luego, ejecuta el siguiente comando en tu terminal:
 
 ```bash
@@ -19,7 +19,7 @@ Ingresa a la carpeta del repositorio y mediante un gestor de base de datos SQL/m
   npm install
   npm start
   ```
-  #Nota: No cierres la terminal mientras el backend está en ejecución
+  ## Nota : No cierres la terminal mientras el backend está en ejecución
 4.Abrir la interfaz web:
   Volver a la carpeta raiz del repositorio y abrir index.html dando doble click o usando navegador web.
 
